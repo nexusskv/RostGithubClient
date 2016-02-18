@@ -1,0 +1,4 @@
+pod 'AFNetworking', '~> 2.5'
+pod 'MBProgressHUD'
+pod 'UIImage+BlurredFrame', '~> 0.0.4'
+link_with 'RostGithubTest'
